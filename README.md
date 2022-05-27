@@ -1,3 +1,3 @@
 # Gemstone-Classifier
 
-Gemstone classifier helps in classifying different gemdtones.
+Gemstone classifier helps in classifying different gemstones.
